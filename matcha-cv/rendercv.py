@@ -19,7 +19,7 @@ def run():
         for d_name, d in data.items():
             o = t.render(cv=d)
             out_name = d.get('options', {}).get('force_file_name') or './{d_name}.{t_name}'.format(d_name=d_name, t_name=t_name)
-            with open(out_name, 'w') as fh:
+            with open('public/{oo}'.format(oo=out_name), 'w') as fh:
                 fh.write(o)
             print(o)
 
