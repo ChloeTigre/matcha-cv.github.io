@@ -147,4 +147,7 @@ customers relationship; IT skills; reporting; system administration
 
 
 
-* CV built using [this](https://github.com/ChloeTigre/matcha-cv) and [that](https://github.com/elipapa/markdown-cv) *
+<div class="no-show-print small">
+<hr />
+CV built using [this](https://github.com/ChloeTigre/matcha-cv) and [that](https://github.com/elipapa/markdown-cv)
+</div>
