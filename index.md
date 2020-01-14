@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Chloé Desoutter - CV
+title: "Chloé Desoutter - CV"
 ---
 
 # Chloé Desoutter
