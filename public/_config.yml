@@ -1,0 +1,6 @@
+markdown: kramdown
+style: kjhealy
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+
