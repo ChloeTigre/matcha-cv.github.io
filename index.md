@@ -112,4 +112,4 @@ Baccalauréat Scientifique [Majors: maths, physics, mechanics, electronics. Mino
 
 
 
-* CV built using [this](https://github.com/ChloeTigre/matcha-cv.github.io) and [that](https://github.com/elipapa/markdown-cv) *
+* CV built using [this](https://github.com/ChloeTigre/matcha-cv) and [that](https://github.com/elipapa/markdown-cv) *
