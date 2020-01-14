@@ -110,22 +110,22 @@ Baccalauréat Scientifique [Majors: maths, physics, mechanics, electronics. Mino
 ## Professional experience
 
 
-``
+`2019-2020`
 __Bluenove, Paris__
 As the DevOps in a product development team, I am in charge of managing the packaging and deployment process of the app, building tools to go towards infrastructure as code, analyze issues and provide system and stack insight to solve them.
 devops; system administration; network administration; relational databases; development; security; containers
 
-``
+`2017-2019`
 __Believe Digital, Paris__
 As an experienced DevOps/sysadmin in a team of 4, we build together a better, more modern infrastructure for petabyte-scale data management and processing. We face numerous technical and security challenges to deliver the best, most reliable service to our team of 50 developers and their ever-growing number of customers.
 devops; security; storage; system administration; linux; network administration; containers
 
-``
+`2017-current`
 __Tigres Rouges Consulting__
 I provide small and medium businesses with consulting on their database and web stacks, help them with online shop migrations and general IT operations, system architecture reviews and more services.
 devops; system administration; ecommerce; relational databases; development; security; containers
 
-``
+`2015-2017`
 __NBS System, Paris__
 Working in the 3-person R&D team as a backend python developer, solving problems pertaining to scaling an Information System, general performance, reliability. Missions for clients who need special expertise on relational databases.
 devops; system administration; linux; relational databases; development
