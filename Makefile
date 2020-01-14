@@ -6,5 +6,7 @@ write:
 	./matcha-cv/rendercv.py
 
 publish:
-	cp -a _layouts _config.yml media public/
+	cp -r _layouts _config.yml media public/
+	git add public
+	git commit -m "publishing pages"
 	git subtree push --prefix public/ origin gh-pages

@@ -29,12 +29,12 @@ title: "{{ cv.name }} - CV"
 {% for entry in cv.education %}
 `{{ entry.year }}`
 {% if 'where' in entry %}__{{ entry.where }}__{% endif %}
-{{ entry.title }} [{{ entry.description }}]
+{{ entry.title }}{% if 'description' in entry %} [{{ entry.description }}]{% endif %}
 {% endfor %}
 
 ## Professional experience
 
-{% for entry in experience|reverse %}
+{% for entry in cv.experience|reverse %}
 `{{ entry.year }}`
 __{{ entry.where }}__
 {% if 'description' in entry %}{{ entry.description }}{% endif %}
@@ -42,4 +42,7 @@ __{{ entry.where }}__
 {% endfor %}
 
 
-* CV built using [this](https://github.com/ChloeTigre/matcha-cv) and [that](https://github.com/elipapa/markdown-cv) *
+<div class="no-show-print small">
+<hr />
+CV built using [this](https://github.com/ChloeTigre/matcha-cv) and [that](https://github.com/elipapa/markdown-cv)
+</div>
