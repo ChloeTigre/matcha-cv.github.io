@@ -1,0 +1,8 @@
+venv/
+*.pyc
+*.swp
+__pycache__
+_site/
+.sass-cache/
+
+

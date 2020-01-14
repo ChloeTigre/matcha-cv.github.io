@@ -1,0 +1,45 @@
+---
+layout: cv
+title: {{ cv.name }}- CV
+---
+
+# {{ cv.name }}
+{{ cv.job_title }}
+{% if not cv.options.hide_contact_info | default(True) %}
+<div id="webaddress">
+    {% if 'contact' in cv and 'mail' in cv.contact %}<a href="{{ cv.contact.mail }}">{{ cv.contact.mail }}</a>{% endif %}
+    {% if 'github_profile' in cv %}<a href="https://github.com/{{ cv.github_profile }}">GitHub</a>{% endif %}
+    {% if 'twitter_profile' in cv %}<a href="https://twitter.com/{{ cv.twitter_profile }}">Twitter</a>{% endif %}
+</div>
+{% endif %}
+{% if cv.options.show_intro_text | default(True) %}
+## Who am I?
+
+{{ cv.intro_text }}
+{% endif %}
+
+{% for skill_category_name, skill_subcategory in cv.skills.items() %}
+## {{ skill_category_name }} skills
+{% for skill_subcat_name, skill_subcat_list in skill_subcategory.items() %}
+### {{ skill_subcat_name }}
+{{ skill_subcat_list | join('; ') }}
+{% endfor %}{% endfor %}
+## Education
+
+{% for entry in cv.education %}
+`{{ entry.year }}`
+{% if 'where' in entry %}__{{ entry.where }}__{% endif %}
+{{ entry.title }} [{{ entry.description }}]
+{% endfor %}
+
+## Professional experience
+
+{% for entry in experience|reverse %}
+`{{ entry.year }}`
+__{{ entry.where }}__
+{% if 'description' in entry %}{{ entry.description }}{% endif %}
+{{ entry.skillset | join('; ') }}
+{% endfor %}
+
+
+* CV built using [this](https://github.com/ChloeTigre/matcha-cv.github.io) and [that](https://github.com/elipapa/markdown-cv) *
