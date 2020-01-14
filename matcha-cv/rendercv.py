@@ -10,8 +10,8 @@ from glob import glob
 from jinja2 import Template
 
 def run():
-    ftemplate = glob('tpl/*.jinja2')
-    datafiles = glob('data/*.yml')
+    ftemplate = glob('matcha-cv/tpl/*.jinja2')
+    datafiles = glob('matcha-cv/data/*.yml')
     # just keep the base names in a very dirty but working way
     data = { df.split('/')[-1][0:-4]: yaml.load(open(df)) for df in datafiles }
     tpls = { t.split('/')[-1][0:-7]: Template(open(t, 'rb').read().decode('utf-8')) for t in ftemplate }
