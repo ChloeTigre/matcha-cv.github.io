@@ -10,7 +10,7 @@ contact:
     mail: chloe.desoutter+jobs@gmail.com
 
 intro_text: |
-    I'm a general nerd and this has a lot to do with my career as a system administrator, devops and backend developer. I want to provide the best service to clients. I'm loyal to principles and colleagues. I love standards and strive in an environment where we can establish them together. I contribute to open source. French and Python are my mother tongues. I was a DevOps before it was cool.
+    I'm often called a jack of all trades but I am mostly focusing on devops, system administration and backend development. I want to provide the best service to clients. I'm loyal to principles and colleagues. I love standards and strive in an environment where we can establish them together. I contribute to open source. French and Python are my mother tongues. I was a DevOps before it was cool. My ideal job is a well-balanced mix between software and solutions architecture, devops industrialization and tech leadership for other developers and devops.
 
 other_names:
     - type: alias
@@ -38,27 +38,28 @@ languages:
 
 skills:
     IT:
-        Environment: [GNU/Linux (Debian, Ubuntu, Gentoo), FreeBSD, Windows (basic)]
-        Cloud: [AWS (certified), GCP (basic), Azure (basic)]
-        Virtualization: [Xen, KVM, Proxmox, VMware vSphere]
-        Containers: [Docker + compose & swarm, k8s]
-        Programming: [Python, Golang, PHP, SQL, NodeJS, Bash & POSIX shell]
+        Environment: [GNU/Linux (Debian, Ubuntu, Gentoo, arch), FreeBSD, Windows (basic), OSX (advanced)]
+        Cloud: [AWS (certified), GCP (basic), Azure (basic), Scaleway (advanced)]
+        Virtualization: [KVM, Xen, Proxmox, VMware vSphere]
+        Containers: [Docker + compose & swarm (advanced), k8s (basic)]
+        Software Engineering: [Architecture of scalable systems, high-performance computing, Python, Golang, PHP, SQL, NodeJS, Bash & POSIX shell]
         Web: [Flask, HTML5, CSS3, WordPress]
         SCM: [Git, GitLab, GitHub]
-        DevOps: [ansible, saltstack, terraform, packer]
+        DevOps: [ansible + tower, terraform, packer, gitlab-ci]
         RDBMS: [PostgreSQL, MySQL, MariaDB]
-        Services: [nginx, HAProxy, Postfix, opensmtpd, high-availability tools, Apache HTTPD]
+        Services: [nginx, HAProxy, Postfix, opensmtpd, high-availability tools, Apache HTTPD, traefik]
+        Monitoring: [prometheus, nagios, grafana, ELK stack (basic)]
         Networking: [Cisco LAN & WAN, pfSense, opnSense, iptables, ferm, BGP, IP stack, open-source VPN systems]
         Tools: [etckeeper, ferm, password-manager]
         Culture: [F/OSS data & software, history of computing & retrocomputing, women in computing, Wikipedia contributor since 2005, GCU Squad!]
         Methods: [Scrum, Reporting, Forensics]
         Misc: [Matlab, LaTeX, Open Build Service]
     Social:
-        Interactions: [Non-violent communication, easy with multi-cultural environments]
+        Interactions: [Nonviolent communication, multicultural environments, queer issues]
     Other:
-        Academic: [maths, philosophy, economy, sociology]
+        Academic: [maths, physics, philosophy, economy, sociology]
         Writing: [french, docs, tutorials]
-        Various: [video editing, guitar, voice]
+        Various: [video editing, guitar, analog synthesis]
 
 
 education:
@@ -72,7 +73,7 @@ education:
     - year: 2006–2008
       title: DUT Informatique
       where: IUT de Lens, Lens, France
-      description: "Majors: Software development & system administration ; Minors: project management."
+      description: "Majors: Software development & system administration , Minors: project management."
     - year: 2006
       title: Baccalauréat Scientifique
       where: Lycée Édouard Branly, Boulogne-sur-Mer, France
@@ -109,9 +110,9 @@ experience:
       year: 2017-2019
       description: As an experienced DevOps/sysadmin in a team of 4, we build together a better, more modern infrastructure for petabyte-scale data management and processing. We face numerous technical and security challenges to deliver the best, most reliable service to our team of 50 developers and their ever-growing number of customers.
       skillset: [devops, security, storage, system administration, linux, network administration, containers]
-    - title: Senior DevOps
+    - title: Senior DevOps and co-Tech Lead
       where: Bluenove, Paris
       year: 2019-2020
-      description: As the DevOps in a product development team, I am in charge of managing the packaging and deployment process of the app, building tools to go towards infrastructure as code, analyze issues and provide system and stack insight to solve them.
-      skillset: [devops, system administration, network administration, relational databases, development, security, containers]
+      description: DevOps-wise, I build the tools that deploy stacks of open source collective intelligence solutions and as co-Tech Lead I help developers study technical problems and produce elegant and efficient algorithmic and architectural solutions to these.
+      skillset: [devops, architecture, technical leadership, system administration, network administration, relational databases, development, security, containers]
 
