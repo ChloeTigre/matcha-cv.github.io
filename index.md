@@ -15,7 +15,7 @@ Senior DevOps & system administrator
 
 ## Who am I?
 
-I'm a general nerd and this has a lot to do with my career as a system administrator, devops and backend developer. I want to provide the best service to clients. I'm loyal to principles and colleagues. I love standards and strive in an environment where we can establish them together. I contribute to open source. French and Python are my mother tongues. I was a DevOps before it was cool.
+I'm often called a jack of all trades but I am mostly focusing on devops, system administration and backend development. I want to provide the best service to clients. I'm loyal to principles and colleagues. I love standards and strive in an environment where we can establish them together. I contribute to open source. French and Python are my mother tongues. I was a DevOps before it was cool. My ideal job is a well-balanced mix between software and solutions architecture, devops industrialization and tech leadership for other developers and devops.
 
 
 
@@ -23,19 +23,19 @@ I'm a general nerd and this has a lot to do with my career as a system administr
 ## IT skills
 
 ### Environment
-GNU/Linux (Debian; Ubuntu; Gentoo); FreeBSD; Windows (basic)
+GNU/Linux (Debian; Ubuntu; Gentoo; arch); FreeBSD; Windows (basic); OSX (advanced)
 
 ### Cloud
-AWS (certified); GCP (basic); Azure (basic)
+AWS (certified); GCP (basic); Azure (basic); Scaleway (advanced)
 
 ### Virtualization
-Xen; KVM; Proxmox; VMware vSphere
+KVM; Xen; Proxmox; VMware vSphere
 
 ### Containers
-Docker + compose & swarm; k8s
+Docker + compose & swarm (advanced); k8s (basic)
 
-### Programming
-Python; Golang; PHP; SQL; NodeJS; Bash & POSIX shell
+### Software Engineering
+Architecture of scalable systems; high-performance computing; Python; Golang; PHP; SQL; NodeJS; Bash & POSIX shell
 
 ### Web
 Flask; HTML5; CSS3; WordPress
@@ -44,13 +44,16 @@ Flask; HTML5; CSS3; WordPress
 Git; GitLab; GitHub
 
 ### DevOps
-ansible; saltstack; terraform; packer
+ansible + tower; terraform; packer; gitlab-ci
 
 ### RDBMS
 PostgreSQL; MySQL; MariaDB
 
 ### Services
-nginx; HAProxy; Postfix; opensmtpd; high-availability tools; Apache HTTPD
+nginx; HAProxy; Postfix; opensmtpd; high-availability tools; Apache HTTPD; traefik
+
+### Monitoring
+prometheus; nagios; grafana; ELK stack (basic)
 
 ### Networking
 Cisco LAN & WAN; pfSense; opnSense; iptables; ferm; BGP; IP stack; open-source VPN systems
@@ -70,18 +73,18 @@ Matlab; LaTeX; Open Build Service
 ## Social skills
 
 ### Interactions
-Non-violent communication; easy with multi-cultural environments
+Nonviolent communication; multicultural environments; queer issues
 
 ## Other skills
 
 ### Academic
-maths; philosophy; economy; sociology
+maths; physics; philosophy; economy; sociology
 
 ### Writing
 french; docs; tutorials
 
 ### Various
-video editing; guitar; voice
+video editing; guitar; analog synthesis
 
 ## Education
 
@@ -100,7 +103,7 @@ Advanced PostgreSQL DBA
 
 `2006–2008`
 __IUT de Lens, Lens, France__
-DUT Informatique [Majors: Software development & system administration ; Minors: project management.]
+DUT Informatique [Majors: Software development & system administration , Minors: project management.]
 
 `2006`
 __Lycée Édouard Branly, Boulogne-sur-Mer, France__
@@ -112,8 +115,8 @@ Baccalauréat Scientifique [Majors: maths, physics, mechanics, electronics. Mino
 
 `2019-2020`
 __Bluenove, Paris__
-As the DevOps in a product development team, I am in charge of managing the packaging and deployment process of the app, building tools to go towards infrastructure as code, analyze issues and provide system and stack insight to solve them.
-devops; system administration; network administration; relational databases; development; security; containers
+DevOps-wise, I build the tools that deploy stacks of open source collective intelligence solutions and as co-Tech Lead I help developers study technical problems and produce elegant and efficient algorithmic and architectural solutions to these.
+devops; architecture; technical leadership; system administration; network administration; relational databases; development; security; containers
 
 `2017-2019`
 __Believe Digital, Paris__
