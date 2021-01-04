@@ -8,5 +8,5 @@ write:
 publish:
 	cp -r _layouts _config.yml media public/
 	git add public
-	git commit -m "publishing pages"
-	git subtree push --prefix public/ origin gh-pages --force
+	git commit --allow-empty -m "publishing pages"
+	git subtree push --prefix public/ origin gh-pages
