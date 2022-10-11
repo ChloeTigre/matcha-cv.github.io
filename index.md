@@ -92,7 +92,7 @@ maths; physics; philosophy; economy; sociology
 poetry; sci-fi; punk literature
 
 ### Various
-video editing; guitar; piano; analog synthesis; electronic music; programming art
+video editing; guitar; piano; analog synthesis; electronic music; programming art; analog photography; electronics
 
 ## Education
 
