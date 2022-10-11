@@ -1,26 +1,34 @@
 ---
 layout: cv
-title: "Chloé Desoutter - CV"
+title: "Matcha Desoutter - CV"
 ---
 
-# Chloé Desoutter
-Senior DevOps & system administrator
+# Matcha Desoutter
+Staff Software Engineer
 
 <div id="webaddress">
-    <a href="chloe.desoutter+jobs@gmail.com">chloe.desoutter+jobs@gmail.com</a>
-    <a href="https://github.com/ChloeTigre">GitHub</a>
+    <a href="dsttrc+jobs@gmail.com">dsttrc+jobs@gmail.com</a>
+    <a href="https://github.com/matchaxnb">GitHub</a>
     <a href="https://twitter.com/matcha_x">Twitter</a>
 </div>
 
 
 ## Who am I?
 
-I'm often called a jack of all trades but I am mostly focusing on devops, system administration and backend development. I want to provide the best service to clients. I'm loyal to principles and colleagues. I love standards and strive in an environment where we can establish them together. I contribute to open source. French and Python are my mother tongues. I was a DevOps before it was cool. My ideal job is a well-balanced mix between software and solutions architecture, devops industrialization and tech leadership for other developers and devops.
+I am passionate about Engineering, engineers, and Developer Experience. My career takes me through backend engineering, DevOps, architecture, standardization efforts and problem solving. I am obsessional about defining the problem space clearly and setting objectives before moving forward, building solutions that are beautiful, reaching goals together. I also love programming and constructing beautiful software designs.
 
 
 
 
-## IT skills
+## Areas of Expertise skills
+
+### Tech companies
+Developer Experience; Open Source; Distributed architecture
+
+### Engineering Domains
+Large databases; Platform Abstraction; Cross-domain communication; Time-constrained processing
+
+## Familiar Environments skills
 
 ### Environment
 GNU/Linux (Debian; Ubuntu; Gentoo; arch); FreeBSD; Windows (basic); OSX (advanced)
@@ -65,7 +73,7 @@ etckeeper; ferm; password-manager
 F/OSS data & software; history of computing & retrocomputing; women in computing; Wikipedia contributor since 2005; GCU Squad!
 
 ### Methods
-Scrum; Reporting; Forensics
+Kanban; Agile ceremonies
 
 ### Misc
 Matlab; LaTeX; Open Build Service
@@ -73,18 +81,18 @@ Matlab; LaTeX; Open Build Service
 ## Social skills
 
 ### Interactions
-Nonviolent communication; multicultural environments; queer issues
+Queer politics; Multicultural teams
 
-## Other skills
+## Other interests skills
 
 ### Academic
 maths; physics; philosophy; economy; sociology
 
-### Writing
-french; docs; tutorials
+### Literature
+poetry; sci-fi; punk literature
 
 ### Various
-video editing; guitar; analog synthesis
+video editing; guitar; piano; analog synthesis; electronic music; programming art
 
 ## Education
 
@@ -113,7 +121,12 @@ Baccalauréat Scientifique [Majors: maths, physics, mechanics, electronics. Mino
 ## Professional experience
 
 
-`2019-2020`
+`2021-2022`
+__sennder, Berlin (remote)__
+As a Staff Software Engineer in the Platform BA, I take part in building sennder's internal platform that helps developers deploy numerous services as the company switches from a monolithic app model to a distributed asynchronous architecture. I also initiate the Developer Experience initiative and set the company on a path towards friction-less knowledge sharing across an Engineering community of 200+ people. When I am not doing this, I interview a large number of Engineers to get the best assets onboard the company.
+devops; architecture; technical leadership; developer experience; open source
+
+`2019-2021`
 __Bluenove, Paris__
 DevOps-wise, I build the tools that deploy stacks of open source collective intelligence solutions and as co-Tech Lead I help developers study technical problems and produce elegant and efficient algorithmic and architectural solutions to these.
 devops; architecture; technical leadership; system administration; network administration; relational databases; development; security; containers
