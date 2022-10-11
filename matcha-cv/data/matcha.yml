@@ -3,20 +3,20 @@ options:
     hide_contact_info: false
     show_intro_text: true
     force_file_name: index.md
-name: Chloé Desoutter
-job_title: Senior DevOps & system administrator
-location: Paris, France
+name: Matcha Desoutter
+job_title: Staff Software Engineer
+location: France
 contact:
-    mail: chloe.desoutter+jobs@gmail.com
+    mail: dsttrc+jobs@gmail.com
 
 intro_text: |
-    I'm often called a jack of all trades but I am mostly focusing on devops, system administration and backend development. I want to provide the best service to clients. I'm loyal to principles and colleagues. I love standards and strive in an environment where we can establish them together. I contribute to open source. French and Python are my mother tongues. I was a DevOps before it was cool. My ideal job is a well-balanced mix between software and solutions architecture, devops industrialization and tech leadership for other developers and devops.
+    I am passionate about Engineering, engineers, and Developer Experience. My career takes me through backend engineering, DevOps, architecture, standardization efforts and problem solving. I am obsessional about defining the problem space clearly and setting objectives before moving forward, building solutions that are beautiful, reaching goals together. I also love programming and constructing beautiful software designs.
 
 other_names:
     - type: alias
       name: Matcha
 
-github_profile: ChloeTigre
+github_profile: matchaxnb
 twitter_profile: matcha_x
 fediverse_profile: matcha_x@mamot.fr
 
@@ -37,7 +37,10 @@ languages:
       cef: basic user
 
 skills:
-    IT:
+    Areas of Expertise:
+       Tech companies: [Developer Experience, Open Source, Distributed architecture]
+       Engineering Domains: [Large databases, Platform Abstraction, Cross-domain communication, Time-constrained processing]
+    Familiar Environments:
         Environment: [GNU/Linux (Debian, Ubuntu, Gentoo, arch), FreeBSD, Windows (basic), OSX (advanced)]
         Cloud: [AWS (certified), GCP (basic), Azure (basic), Scaleway (advanced)]
         Virtualization: [KVM, Xen, Proxmox, VMware vSphere]
@@ -52,14 +55,14 @@ skills:
         Networking: [Cisco LAN & WAN, pfSense, opnSense, iptables, ferm, BGP, IP stack, open-source VPN systems]
         Tools: [etckeeper, ferm, password-manager]
         Culture: [F/OSS data & software, history of computing & retrocomputing, women in computing, Wikipedia contributor since 2005, GCU Squad!]
-        Methods: [Scrum, Reporting, Forensics]
+        Methods: [Kanban, Agile ceremonies]
         Misc: [Matlab, LaTeX, Open Build Service]
     Social:
-        Interactions: [Nonviolent communication, multicultural environments, queer issues]
-    Other:
+        Interactions: [Queer politics, Multicultural teams]
+    Other interests:
         Academic: [maths, physics, philosophy, economy, sociology]
-        Writing: [french, docs, tutorials]
-        Various: [video editing, guitar, analog synthesis]
+        Literature: [poetry, sci-fi, punk literature]
+        Various: [video editing, guitar, piano, analog synthesis, electronic music, programming art, analog photography, electronics]
 
 
 education:
@@ -112,7 +115,11 @@ experience:
       skillset: [devops, security, storage, system administration, linux, network administration, containers]
     - title: Senior DevOps and co-Tech Lead
       where: Bluenove, Paris
-      year: 2019-2020
+      year: 2019-2021
       description: DevOps-wise, I build the tools that deploy stacks of open source collective intelligence solutions and as co-Tech Lead I help developers study technical problems and produce elegant and efficient algorithmic and architectural solutions to these.
       skillset: [devops, architecture, technical leadership, system administration, network administration, relational databases, development, security, containers]
-
+    - title: Staff Software Engineer, Platform
+      where: sennder, Berlin (remote)
+      year: 2021-2022
+      description: As a Staff Software Engineer in the Platform BA, I take part in building sennder's internal platform that helps developers deploy numerous services as the company switches from a monolithic app model to a distributed asynchronous architecture. I also initiate the Developer Experience initiative and set the company on a path towards friction-less knowledge sharing across an Engineering community of 200+ people. When I am not doing this, I interview a large number of Engineers to get the best assets onboard the company.
+      skillset: [devops, architecture, technical leadership, developer experience, open source]

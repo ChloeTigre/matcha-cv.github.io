@@ -13,7 +13,13 @@ def run():
     ftemplate = glob('matcha-cv/tpl/*.jinja2')
     datafiles = glob('matcha-cv/data/*.yml')
     # just keep the base names in a very dirty but working way
-    data = { df.split('/')[-1][0:-4]: yaml.load(open(df)) for df in datafiles }
+    data = {}
+    for df in datafiles:
+        with open(df, 'r') as fh:
+            k = df.split('/')[-1][0:-4]
+            v = yaml.load(fh, Loader=yaml.SafeLoader)
+            data[k] = v
+#    data = { df.split('/')[-1][0:-4]: yaml.load(open(df)) for df in datafiles }
     tpls = { t.split('/')[-1][0:-7]: Template(open(t, 'rb').read().decode('utf-8')) for t in ftemplate }
     for t_name, t in tpls.items():
         for d_name, d in data.items():

@@ -19,7 +19,7 @@ title: "{{ cv.name }} - CV"
 {% endif %}
 
 {% for skill_category_name, skill_subcategory in cv.skills.items() %}
-## {{ skill_category_name }} skills
+## {{ skill_category_name }}
 {% for skill_subcat_name, skill_subcat_list in skill_subcategory.items() %}
 ### {{ skill_subcat_name }}
 {{ skill_subcat_list | join('; ') }}
