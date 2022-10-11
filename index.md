@@ -20,7 +20,7 @@ I am passionate about Engineering, engineers, and Developer Experience. My caree
 
 
 
-## Areas of Expertise skills
+## Areas of Expertise
 
 ### Tech companies
 Developer Experience; Open Source; Distributed architecture
@@ -28,7 +28,7 @@ Developer Experience; Open Source; Distributed architecture
 ### Engineering Domains
 Large databases; Platform Abstraction; Cross-domain communication; Time-constrained processing
 
-## Familiar Environments skills
+## Familiar Environments
 
 ### Environment
 GNU/Linux (Debian; Ubuntu; Gentoo; arch); FreeBSD; Windows (basic); OSX (advanced)
@@ -78,12 +78,12 @@ Kanban; Agile ceremonies
 ### Misc
 Matlab; LaTeX; Open Build Service
 
-## Social skills
+## Social
 
 ### Interactions
 Queer politics; Multicultural teams
 
-## Other interests skills
+## Other interests
 
 ### Academic
 maths; physics; philosophy; economy; sociology
